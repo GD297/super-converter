@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="668.0" prefWidth="914.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dinhgt.app.jsonconverter.controller.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+      <SplitPane dividerPositions="0.29797979797979796" prefHeight="595.0" prefWidth="874.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="496.0" prefWidth="57.0" />
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="571.0" prefWidth="609.0" />
+        </items>
+      </SplitPane>
+   </children>
+ 
+
+</VBox>

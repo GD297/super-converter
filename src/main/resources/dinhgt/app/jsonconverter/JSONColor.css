@@ -1,0 +1,24 @@
+.brace {
+    -fx-fill: #f36c21;
+}
+
+.square-brace {
+    -fx-fill: #ff9800;
+}
+
+.colon {
+    -fx-fill: #795548;
+}
+.red-text {
+    -fx-fill: red;
+}
+.error-field{
+    -fx-border-insets: 0;
+    -fx-border-width: 2px;
+    -fx-border-color: red;
+    -fx-border-style: hidden hidden solid hidden;
+}
+
+.json-property { -fx-fill: #A31515; }
+.json-number   { -fx-fill: #098658; }
+.json-string   { -fx-fill: #0451A5; }
